@@ -13,5 +13,9 @@ sample002-02
 
 bug fix05
 
+function001
+function002
+function003
+
 
 sample 001
