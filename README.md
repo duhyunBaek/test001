@@ -10,3 +10,5 @@ bug fix04
 
 sample002-01
 sample002-02
+
+bug fix05
