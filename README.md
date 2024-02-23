@@ -12,3 +12,7 @@ sample002-01
 sample002-02
 
 bug fix05
+
+function001
+function002
+function003
